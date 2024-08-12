@@ -1,0 +1,134 @@
+[
+    {
+      "cd_id": 1,
+      "titulo": "Is This It",
+      "sinopsis": "Primer álbum de estudio de The Strokes.",
+      "texto": "Is This It —en español: ¿Esto es todo?— es el álbum debut de la banda de rock estadounidense The Strokes. Grabado en el estudio Transporterraum de Nueva York con el productor Gordon Raphael, el álbum se publicó por primera vez el 30 de julio de 2001 en Australia, con RCA Records como compañía discográfica.",
+      "imagen": "assets/imgs/is_this_it.png",
+      "discografica": "RCA Records",
+      "productor": "Gordon Raphael",
+      "genero": "Indie rock",
+      "precio":"$ 10.23"
+    },
+    {
+      "cd_id": 2,
+      "titulo": "Room On Fire",
+      "sinopsis": "Segundo álbum de estudio de The Strokes.",
+      "texto": "Room On Fire —en español: Habitación en llamas-es el segundo álbum de la banda The Strokes. Publicado en octubre de 2003, incluyendo tres sencillos: «12:51», «Reptilia» y «The End Has No End».",
+      "imagen": "assets/imgs/room_on_fire.png",
+      "discografica": "RCA Records",
+      "productor": "Gordon Raphael",
+      "genero": "Indie rock",
+      "precio":"$ 12.36"
+    },
+    {
+      "cd_id": 3,
+      "titulo": "First Impressions Of Earth",
+      "sinopsis": "Tercer álbum de estudio de The Strokes.",
+      "texto": "First Impressions of Earth —en español: Primeras impresiones de la Tierra—es el tercer álbum de la banda de rock estadounidense The Strokes. Fue publicado en enero de 2006, siendo precedido por el sencillo hit 'Juicebox' algunas semanas antes. Además, es el primer álbum de The Strokes con Parental Advisory.",
+      "imagen": "assets/imgs/first_impressions_of_earth.png",
+      "discografica": "RCA Records",
+      "productor": "Gordon Raphael",
+      "genero": "Indie rock",
+      "precio":"$ 13.36"
+    },
+    {
+      "cd_id": 4,
+      "titulo": "Angles",
+      "sinopsis": "Cuarto álbum de estudio de The Strokes.",
+      "texto": "Angles -en español: Anglos-es el cuarto álbum de estudio de la banda de rock estadounidense The Strokes, que fue lanzado el 21 de marzo de 2011 en el Reino Unido y un día después en los Estados Unidos.",
+      "imagen": "assets/imgs/angles.png",
+      "discografica": "RCA Records",
+      "productor": "Gus Oberg, Joe Chicarelli",
+      "genero": "Indie rock",
+      "precio":"$ 14.32"
+    },
+    {
+      "cd_id": 5,
+      "titulo": "Comedown Machine",
+      "sinopsis": "Quinto álbum de estudio de The Strokes.",
+      "texto": "Comedown Machine es el quinto álbum de estudio de la banda de indie rock estadounidense The Strokes, programado para lanzarse el 26 de marzo de 2013 en los Estados Unidos y el 25 de marzo en el Reino Unido, exactamente dos años después que su anterior disco, Angles.",
+      "imagen": "assets/imgs/comedown_machine.png",
+      "discografica": "RCA Records",
+      "productor": "Gus Oberg, Joe Chicarelli",
+      "genero": "Indie rock",
+      "precio":"$ 11.83"
+    },
+    {
+        "cd_id": 6,
+        "titulo": "The New Abnormal",
+        "sinopsis": "Sexto álbum de estudio de The Strokes.",
+        "texto": "The New Abnormal —en español: La nueva anormalidad— es el sexto álbum de estudio de la banda de garage rock estadounidense The Strokes. Fue lanzado el 10 de abril de 2020 en todas las plataformas y países.",
+        "imagen": "assets/imgs/the_new_abnormal.png",
+        "discografica": "Cult Records",
+        "productor": "Rick Rubin",
+        "genero": "Indie rock",
+        "precio":"$ 13.20"
+      },
+      {
+        "cd_id": 7,
+        "titulo": "Bleach",
+        "sinopsis": "Primer álbum de estudio de Nirvana.",
+        "texto": "Bleach —en español: «Lejía» o «Blanqueador»— es el álbum debut de la banda de grunge estadounidense Nirvana, lanzado en junio de 1989 a través del sello discográfico independiente Sub Pop.",
+        "imagen": "assets/imgs/bleach.png",
+        "discografica": "SUB POP",
+        "productor": "Jack Endino",
+        "genero": "Grunge",
+        "precio":"$ 12.36"
+      },
+      {
+        "cd_id": 8,
+        "titulo": "Nevermind",
+        "sinopsis": "Segundo álbum de estudio de Nirvana.",
+        "texto": "Nevermind es el segundo álbum de estudio de la banda estadounidense de grunge Nirvana, publicado en septiembre de 1991. Producido por Butch Vig, Nevermind fue el primer lanzamiento de la banda con DGC Records.",
+        "imagen": "assets/imgs/nevermind.png",
+        "discografica": "DGC Records",
+        "productor": "Butch Vig",
+        "genero": "Grunge",
+        "precio":"$ 16.35"
+      },
+      {
+        "cd_id": 9,
+        "titulo": "Incesticide",
+        "sinopsis": "Álbum de rarezas, lados b y otras grabaciones",
+        "texto": "Incesticide es un álbum recopilatorio de rarezas, lados b y otras grabaciones de estudio lanzado por Nirvana el 14 de diciembre de 1992 en Europa y al día siguiente en Estados Unidos, por medio de Geffen Records en colaboración con Sub Pop.",
+        "imagen": "assets/imgs/incesticide.png",
+        "discografica": "DGC Records",
+        "productor": "Jack Endino",
+        "genero": "Grunge",
+        "precio":"$ 11.46"
+      },
+      {
+        "cd_id": 10,
+        "titulo": "In Utero",
+        "sinopsis": "Tercer álbum de estudio de Nirvana.",
+        "texto": "In Utero es el tercer y último álbum de estudio de la banda estadounidense de grunge Nirvana, lanzado en septiembre de 1993 por DGC Records. Nirvana pretendía que esta grabación sonara diferente a la pulida producción de su anterior álbum, Nevermind.",
+        "imagen": "assets/imgs/in_utero.png",
+        "discografica": "DGC Records",
+        "productor": "Steve Albini, Scott Litt",
+        "genero": "Grunge",
+        "precio":"$ 12.36"
+      },
+      {
+        "cd_id": 11,
+        "titulo": "MTV Unplugged",
+        "sinopsis": "Álbum en vivo de una actuación acústica",
+        "texto": "MTV Unplugged in New York es un álbum en vivo de la banda de rock estadounidense Nirvana, lanzado el 1 de noviembre de 1994 por DGC Records. Presenta una actuación acústica grabada en Sony Music Studios en la ciudad de Nueva York el 18 de noviembre de 1993 para la serie de televisión MTV Unplugged.",
+        "imagen": "assets/imgs/mtv_unplugged.png",
+        "discografica": "Geffen Records",
+        "productor": "Jack Endino",
+        "genero": "Grunge",
+        "precio":"$ 14.06"
+      },
+      {
+        "cd_id": 12,
+        "titulo": "Nirvana",
+        "sinopsis": "Álbum recopilatorio de la banda",
+        "texto": "Nirvana es un álbum recopilatorio de la banda estadounidense de género grunge homónima, lanzado el 29 de octubre de 2002. Para promocionar el álbum fue lanzada una canción inédita de la banda titulada «You Know You're Right». En Australia fue certificado con tres discos de platino.",
+        "imagen": "assets/imgs/nirvana.png",
+        "discografica": "DGC Records",
+        "productor": "Jack Endino",
+        "genero": "Grunge",
+        "precio":"$ 18.36"
+      }
+]  
